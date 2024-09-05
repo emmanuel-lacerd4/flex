@@ -1,0 +1,16 @@
+.conteiner {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+input {
+    width: 90px;
+    padding: 10px;
+    border: 1px solid #920000;
+    border-radius: 5px;
+}
