@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/emmanuel-lacerd4/flex?style=for-the-badge)
+
 # Flex
 Cálculo do combustível mais vantajoso.
 
