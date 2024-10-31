@@ -18,10 +18,11 @@
     <div class="conteiner">
         <h1>Etanol ou Gasolina?</h1>
         <form name="frmFlex" onsubmit="return calcular()">
-            <img src="imagens/neutro.png" alt="mostrador" id="status">
+            <img src="img/neutro.png" alt="mostrador" id="status">
             <input type="number" step="any" name="inputEtanol" placeholder="Etanol" required>
             <input type="number" step="any" name="inputGasolina" placeholder="Gasolina" required>
             <input type="submit" value="Calcular">
+            <input type="reset" value="Limpar" onclick="limpar()"> <!-- type="reset"  -->
         </form>
     </div>
     <script src="app.js"></script>

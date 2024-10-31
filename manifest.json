@@ -5,7 +5,7 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "imagens/flex.png",
+            "src": "img/flex.png",
             "sizes": "512x512",
             "type": "image/png"
         }
