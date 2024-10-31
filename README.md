@@ -5,4 +5,4 @@ Calculo do combustível mais vantajoso.
 Emmanuel L. Nogueira
 
 ## APP - etagas
-![qrcode](https://emmanuel-lacerd4.github.io/flex/)
+![qrcode](https://github.com/emmanuel-lacerd4/flex/blob/main/img/qrcode_flex.png)
